@@ -1,6 +1,5 @@
 #! usr/bin/env python3
 
-# *args turn all input into a list
 
 blog_1 = "Heynong man."
 blog_2 = "Nong-Hey man."
